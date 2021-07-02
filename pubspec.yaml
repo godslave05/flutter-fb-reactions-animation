@@ -1,6 +1,9 @@
 name: facebook_reaction_animation
 description: Facebook reaction animation with Flutter
 
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  
 dependencies:
   flutter:
     sdk: flutter
